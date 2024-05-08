@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Paul --> @paulrwade
+- 👀 I’m interested in learning to contribute to open-source project -- especially Python and Django
+- 🌱 I’m currently learning Python, Django, and soon Node.js
+- 💞️ I’m looking to collaborate on entry-level assignments
+- 📫 How to reach me message me here
+- ⚡ Fun fact: ...
